@@ -5,8 +5,8 @@ http://170.81.240.10:8000/play/a001/index.m3u8
 http://magi-stv.net:8080/IMazariegos/7TCGCYqCgcEY/10629
 #EXTINF:-1 ,Latina
 http://200.24.204.242:6020/play/a085/index.m3u8
-#EXTINF:-1 ,Movistar Deportes HD
-http://179.51.163.250:8000/play/a002/index.m3u8
+#EXTINF:-1 tvg-id="movistardeportes.es" tvg-name="DEPORTES HD | MOVISTAR DEPORTES" tvg-logo="http://castlempire.site:8080/images/37395b7592321af76c2f12578beb050f.png"
+http://castlempire.site:8080/wilfo49/Gk4g8UCaH7Ca/181257
 #EXTINF:-1 ,America TV HD
 http://magi-stv.net:8080/IMazariegos/7TCGCYqCgcEY/11437
 #EXTINF:-1 tvg-id="americatelevision.pe" tvg-name="PE| America TV FHD" tvg-logo="http://atlantis-mx.com/logos/americatv.png"
